@@ -2,6 +2,6 @@ voila
 voila-material
 bqplot
 pandas
-pip install matplotlib.pyplot
 numpy
 ipywidgets
+matplotlib.pyplot
