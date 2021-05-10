@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/info147_tarea1.ipynb
+web: voila --port=$PORT --no-browser --show_tracebacks=True --template=material --enable_nbextensions=True notebooks/info147_tarea1.ipynb
