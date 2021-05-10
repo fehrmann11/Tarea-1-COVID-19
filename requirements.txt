@@ -4,4 +4,4 @@ bqplot
 pandas
 numpy
 ipywidgets
-matplotlib.pyplot
+matplotlib
